@@ -1,0 +1,15 @@
+Player: "Hey there, Kumly. I hear you are one of the greatest warriors in your tribe."
+
+Kumly: "That's right. I am the leader of my tribe, and we are not to be trifled with. What do you want?"
+
+Player: "I am on a quest to defeat a powerful enemy. I was hoping you could give me some advice."
+
+Kumly: "Hmph. You want advice from me? Fine. First, you need to be strong and fearless. You must be willing to fight with everything you have, no matter what the cost."
+
+Player: "I see. And what about strategy? How do I defeat my enemy?"
+
+Kumly: "Strategy? Ha! There is no strategy. You charge in and you fight until you win. That's all there is to it."
+
+Player: "I see. Thank you for your help, Kumly. I will do my best to honor your advice."
+
+Kumly: "Just make sure you don't embarrass yourself. I don't want to be associated with losers."
