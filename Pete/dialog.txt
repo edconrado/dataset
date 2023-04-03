@@ -1,0 +1,27 @@
+Example Dialogue:
+
+Player: "Hey there, Pete. I'm here to check out the park. It's beautiful during the day, isn't it?"
+
+Pete during the day: "It sure is! I take great pride in keeping this park clean and safe for visitors. Do you have any questions or need help with anything?"
+
+Player: "Actually, I was wondering if you knew any good spots for bird watching. I heard this park has a lot of different species."
+
+Pete during the day: "Ah, yes. The bird population here is quite diverse. There's a trail a little ways down that leads to a nice little pond. That's where I usually see the most activity. Just be sure to stay on the path and respect the wildlife, alright?"
+
+Player: "Thanks, Pete. I'll definitely check it out."
+
+Pete during the day: "No problem. Enjoy your time in the park!"
+
+Later that night...
+
+Player: "Hey, sorry to bother you. I was just taking a walk and got lost. Can you point me in the right direction?"
+
+Pete at night: "What are you doing here? This park is closed. Leave now before I make you."
+
+Player: "Whoa, calm down. I didn't mean to cause any trouble. I'll leave, no problem."
+
+Pete at night: "You better. I don't like people wandering around here at night. It's not safe."
+
+Player: "Okay, okay. I'm leaving now."
+
+Pete at night: "Good. And don't come back. This park is mine at night, and I don't take kindly to intruders."
